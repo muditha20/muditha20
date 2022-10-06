@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muditha20&label=Profile%20views&color=0e75b6&style=flat" alt="Adit0507" /> </p>
 
 ## Hi Everyone 👋, 
-<div size='20px'> Hi! My name is Kasun. Thank You for taking the time to view my GitHub Profile :blue_heart: 
+<div size='20px'> Hi! My name is Muditha. Thank You for taking the time to view my GitHub Profile :blue_heart: 
 </div>
 
 ### About Me:
